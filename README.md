@@ -66,14 +66,14 @@ Results are then aggregated to country level by summing across NUTS3 regions.
 
 ### European-level statistics
 
-Across Europe, approximately **270,000 people** lived within areas burned at least once between 2019 and 2023 — around 0.1% of the total population covered by the analysis.
+Across Europe, approximately **270,000 people** lived within areas burned at least once between 2019 and 2023 — around 0.06% of the total population covered by the analysis.
 
-| Group | Exposed | Total (fire-affected NUTS3) | % exposed |
+| Age group | Exposed | EU Total | % exposed |
 |---|---|---|---|
-| **Total population** | 269,558 | 254,139,152 | 0.11% |
-| Non-employed | 183,864 | 170,198,468 | 0.11% |
-| Born in other EU MS | 6,169 | 7,515,514 | 0.08% |
-| Born outside EU | 12,485 | 19,711,936 | 0.06% |
+| **Total population** | 269,558 | 453,248,220 | 0.06% |
+| Under 15 | 34,449 | 67,211,921 | 0.05% |
+| 15 to 64 | 167,944 | 289,423,683 | 0.06% |
+| 65+ | 67,221 | 93,650,959 | 0.07% |
 
 Non-employed persons (which include unemployed, inactive, students and retired people not captured by the EMP variable) show a slightly higher exposure rate than the general population, reflecting the geographic concentration of fires in southern European regions where employment rates tend to be lower.
 
@@ -83,19 +83,22 @@ Non-employed persons (which include unemployed, inactive, students and retired p
 
 ### Country-level statistics and charts
 
-The exposure is heavily concentrated in **southern Europe**. Italy records the largest absolute number of exposed people (127,711), while Portugal and Greece show the highest share of their national population exposed (~0.40% and ~0.39% respectively).
+The exposure is heavily concentrated in **southern Europe**. Italy records the largest 
+absolute number of exposed people (127,711), while Portugal and Greece show the highest 
+share of their national population exposed (~0.40% and ~0.39% respectively).
 
-| Country | Exposed (total) | National pop (fire NUTS3) | % exposed | % non-employed exposed |
-|---|---|---|---|---|
-| Italy (IT) | 127,711 | 46,198,432 | 0.28% | 0.31% |
-| Portugal (PT) | 40,753 | 10,257,175 | 0.40% | 0.44% |
-| Greece (EL) | 39,726 | 10,103,290 | 0.39% | 0.40% |
-| Spain (ES) | 26,153 | 46,360,139 | 0.06% | 0.06% |
-| France (FR) | 13,068 | 39,656,919 | 0.03% | 0.03% |
-| Romania (RO) | 12,092 | 16,794,904 | 0.07% | 0.08% |
-| Croatia (HR) | 3,095 | 2,226,350 | 0.14% | 0.15% |
-| Bulgaria (BG) | 2,703 | 6,345,746 | 0.04% | 0.06% |
-| Cyprus (CY) | 1,055 | 917,722 | 0.11% | 0.12% |
+| Country | Exposed (total) | National population | % exposed |
+|---|---|---|---|
+| Italy (IT) | 127,711 | 58,420,557 | 0.22% |
+| Portugal (PT) | 40,753 | 10,257,175 | 0.40% |
+| Greece (EL) | 39,726 | 10,237,698 | 0.39% |
+| Spain (ES) | 26,153 | 46,828,861 | 0.06% |
+| France (FR) | 13,068 | 65,189,893 | 0.02% |
+| Romania (RO) | 12,092 | 19,053,261 | 0.06% |
+| Croatia (HR) | 3,095 | 3,786,907 | 0.08% |
+| Bulgaria (BG) | 2,703 | 6,448,818 | 0.04% |
+| Hungary (HU) | 1,161 | 9,607,928 | 0.01% |
+| Cyprus (CY) | 1,055 | 917,722 | 0.11% |
 
 **Absolute exposed population by group (top 15 countries)**
 
